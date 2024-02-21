@@ -39,4 +39,4 @@ Remember to review each external project's `CONTRIBUTING.md` file before making 
 
 ### Collecting your GitPOAP
 
-Coming Soon.
+Coming Soon!
